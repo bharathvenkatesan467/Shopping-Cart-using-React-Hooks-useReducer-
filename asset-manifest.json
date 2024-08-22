@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bharathvenkatesan467/Subscription-page-using-React-Hooks-useReducer-/static/css/main.5451445f.css",
+    "main.js": "/bharathvenkatesan467/Subscription-page-using-React-Hooks-useReducer-/static/js/main.bc720dad.js",
+    "static/media/product4.jpg": "/bharathvenkatesan467/Subscription-page-using-React-Hooks-useReducer-/static/media/product4.f4025595c807ce9966bd.jpg",
+    "static/media/product3.jpg": "/bharathvenkatesan467/Subscription-page-using-React-Hooks-useReducer-/static/media/product3.f8de34fdd4b1cb7225eb.jpg",
+    "static/media/product1.jpg": "/bharathvenkatesan467/Subscription-page-using-React-Hooks-useReducer-/static/media/product1.695148487f52309f61c3.jpg",
+    "static/media/product2.jpg": "/bharathvenkatesan467/Subscription-page-using-React-Hooks-useReducer-/static/media/product2.1b46073d352e9617ebf7.jpg",
+    "index.html": "/bharathvenkatesan467/Subscription-page-using-React-Hooks-useReducer-/index.html",
+    "main.5451445f.css.map": "/bharathvenkatesan467/Subscription-page-using-React-Hooks-useReducer-/static/css/main.5451445f.css.map",
+    "main.bc720dad.js.map": "/bharathvenkatesan467/Subscription-page-using-React-Hooks-useReducer-/static/js/main.bc720dad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5451445f.css",
+    "static/js/main.bc720dad.js"
+  ]
+}
